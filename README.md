@@ -6,7 +6,7 @@ This program takes in directories containing page scan XML data from the Nationa
 1. Make sure you have a folder/directory containing only xml files from a specific inventory
 2. Navigate to the “Script Version of Segmentation Classifier” folder in terminal
 3. Type in terminal "python apply_model.py <XML_DIR> <MODEL_PATH> <LABEL_ENCODER_PATH> <OUTPUT_CSV>"
-4. The items in <brackets> should be replaced with the paths to your directories. For the <MODEL_PATH> and <LABEL_ENCODER_PATH> sections*. You can find the files in the same directory as apply_model.py
+4. The items in <brackets> should be replaced with the paths to your directories. For the <MODEL_PATH> and <LABEL_ENCODER_PATH> sections, you can find the files in the same directory as apply_model.py*.
 5. Run the command
 6. Enjoy
 
